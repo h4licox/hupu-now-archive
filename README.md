@@ -1,2 +1,14 @@
 # hupu-now-archive
-HTML page archive and documentation
+
+页面内容归档仓库
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
